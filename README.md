@@ -190,18 +190,9 @@ timeline
 
 ## 🐍 Contribution Graph  
 
-<p align="center">
+![GitHub Snake Light](https://github.com/mNaeem700/mNaeem700/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/mNaeem700/mNaeem700/blob/output/snake-dark.svg#gh-dark-mode-only)
 
-  🌈 **Rainbow Snake**  
-  <img src="https://github.com/mnaeem700/mnaeem700/blob/output/snake-rainbow.svg" width="600" />
-
-  💚 **Neon Green Snake**  
-  <img src="https://github.com/mnaeem700/mnaeem700/blob/output/snake-neon.svg" width="600" />
-
-  🔴 **Red Snake**  
-  <img src="https://github.com/mnaeem700/mnaeem700/blob/output/snake-red.svg" width="600" />
-
-</p>
 
 
 
