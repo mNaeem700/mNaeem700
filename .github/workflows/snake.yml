@@ -1,48 +1,26 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
-  schedule: # Runs every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual runs from Actions tab
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:      # Allow manual run
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      # 🌈 Rainbow Snake
-      - name: Generate Rainbow Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mnaeem700
-          outputs: dist/snake-rainbow.svg
-          color_snake: "rainbow"
-          color_dots: "#FFFFFF"
-          color_bg: "#0D1117"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      # 💚 Neon Green Snake
-      - name: Generate Neon Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: mnaeem700
-          outputs: dist/snake-neon.svg
-          color_snake: "#39FF14"
-          color_dots: "#00FF00"
-          color_bg: "#0D1117"
-
-      # 🔴 Red Snake
-      - name: Generate Red Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: mnaeem700
-          outputs: dist/snake-red.svg
-          color_snake: "#FF0000"
-          color_dots: "#FF4C4C"
-          color_bg: "#0D1117"
-
-      # 📤 Deploy to output branch
-      - name: Push Snake to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
