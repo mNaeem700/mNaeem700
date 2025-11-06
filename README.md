@@ -16,13 +16,13 @@
   <a href="https://github.com/mnaeem700">
     <img src="https://img.shields.io/badge/GitHub-M--Naeem-181717?logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/muhammad-naeem">
+  <a href="https://linkedin.com/in/neemiidev">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Naeem-blue?logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/@M_Naeem1122">
+  <a href="https://twitter.com/@neemiidev">
     <img src="https://img.shields.io/badge/Twitter-M--Naeem-1DA1F2?logo=twitter" alt="Twitter" />
   </a>
-  <a href="mailto:mnaeekmkachala@gmail.com">
+  <a href="mailto:neemiidev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail" alt="Email" />
   </a>
 </p>
