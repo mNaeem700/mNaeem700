@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+2%2B+Years+Professional+Experience;5+Live+Apps+on+Google+Play+%26+App+Store;Clean+Architecture+%7C+MVVM+%7C+Firebase+%7C+GraphQL;Building+Cross-Platform+Apps+for+International+Clients;Open+to+Remote+%26+International+Opportunities" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+3%2B+Years+Professional+Experience;5+Live+Apps+on+Google+Play+%26+App+Store;Clean+Architecture+%7C+MVVM+%7C+Firebase+%7C+GraphQL;Building+Cross-Platform+Apps+for+International+Clients;Open+to+Remote+%26+International+Opportunities" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
 <tr>
 <td width="55%">
 
-**Muhammad Naeem** is a Flutter Developer and Software Engineer based in Lahore, Pakistan with **2+ years of professional experience** building and shipping production-grade cross-platform mobile applications.
+**Muhammad Naeem** is a Flutter Developer and Software Engineer based in Lahore, Pakistan with **3+ years of professional experience** building and shipping production-grade cross-platform mobile applications.
 
 Currently working remotely with **Unique Solutions UAE**, delivering Flutter apps for international clients across AI, ride-sharing, social networking, and IPTV domains.
 
