@@ -26,12 +26,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mNaeem700&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-</div>
-
----
-
 ## About Me
 
 <table>
@@ -58,7 +52,7 @@ Currently working remotely with **Unique Solutions UAE**, delivering Flutter app
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mNaeem700&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=mNaeem700&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" width="100%"/>
 
 <img src="https://streak-stats.demolab.com/?user=mNaeem700&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
 
@@ -241,7 +235,7 @@ Currently working remotely with **Unique Solutions UAE**, delivering Flutter app
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mNaeem700&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mNaeem700&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="150"/>
 </div>
 
 ---
